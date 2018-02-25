@@ -1,0 +1,9 @@
+Researching displacement sensors I came to the conclusion the best options would be either a dial indicator/gauge (see first two links) or a linear variable differential transformer (LVDT). After talking to Jeff, it might make sense to design a system to work with a Raspberry Pi or similar device. The current computer in the lab does have internet access and a serial port/several USB ports/PS2 port, but we discussed replacing other sensors with more modern technology. A shield for a Raspberry Pi might give him a more modular device that allows for future IoT improvements to the soil lab than just what I'm doing. 
+
+This sensor does exactly what we need already, but it costs $400. I'm also not sure if it has a time out function or if it can run continously, and it's unfortunately battery powered. It communicates with Bluetooth. 
+http://www.motionics.com/bluedial.html
+
+This sensor seems like it would be appropriate; I need to read the data sheet more and make sure there isn't a time out mode
+https://www.grainger.com/product/MITUTOYO-Electronic-Digital-Indicator-1ARU1
+It uses a proprietary output format, but the company offers serial output with a cable converter: https://www.mitutoyo.com/wp-content/uploads/2012/11/E4250-264_Input-Tool.pdf
+
