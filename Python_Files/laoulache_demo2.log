@@ -1,0 +1,6 @@
+experiment_id: laoulache_demo2, displacement: 0.04, weight: 0.25, time: 15.441287, POST_response: <Response [200]>
+experiment_id: laoulache_demo2, displacement: 0.05, weight: 0.25, time: 25.535802, POST_response: <Response [200]>
+experiment_id: laoulache_demo2, displacement: 0.07, weight: 0.25, time: 35.260059, POST_response: <Response [200]>
+experiment_id: laoulache_demo2, displacement: 0.08, weight: 0.25, time: 45.149824, POST_response: <Response [200]>
+experiment_id: laoulache_demo2, displacement: 0.08, weight: 0.25, time: 55.052506, POST_response: <Response [200]>
+experiment_id: laoulache_demo2, displacement: 0.08, weight: 0.25, time: 253.386969, POST_response: <Response [200]>
